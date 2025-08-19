@@ -1,0 +1,17 @@
+{
+  "name": "npm-artifactory-demo",
+  "version": "1.0.0",
+  "description": "A sample NPM package to demonstrate publishing to Artifactory",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building project...' && mkdir -p dist && cp index.js dist/",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "demo",
+    "npm",
+    "artifactory"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
