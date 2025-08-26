@@ -1,3 +1,4 @@
+// added one comment
 # npm-artifactory-demo
 
 A simple NPM package to demonstrate building and publishing to Artifactory.
