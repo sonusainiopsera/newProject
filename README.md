@@ -1,4 +1,4 @@
-// added one comment sonu saini Rajasthan india
+// added one comment sonu saini Rajasthan india added. 
 # npm-artifactory-demo
 
 A simple NPM package to demonstrate building and publishing to Artifactory.
